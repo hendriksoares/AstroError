@@ -1,0 +1,20 @@
+{
+  "name": "Astro-297xme",
+  "env": "production",
+  "application": {
+    "id": 1713177818,
+    "name": "Astro-297xme"
+  },
+  "domain": {
+    "id": 1713175981,
+    "name": "Astro-297xme",
+    "url": "d6tf8ucqr2.map.azionedge.net"
+  },
+  "function": {
+    "id": 19946,
+    "name": "Astro-297xme"
+  },
+  "version-id": "20240415103014",
+  "type": "astro",
+  "mode": "deliver"
+}
